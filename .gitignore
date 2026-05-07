@@ -1,0 +1,10 @@
+Debug
+Release
+build
+bin
+obj
+*.exe
+*.o
+*.obj
+.settings
+.vscode
